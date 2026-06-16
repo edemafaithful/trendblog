@@ -1,0 +1,6 @@
+{
+  "name": "Trend Radar",
+  "description": "Real-time early breaking news signal dashboard that monitors cross-network RSS, Reddit, and Google Trends to detect emerging topics ahead of Google Trends with AI article drafting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
